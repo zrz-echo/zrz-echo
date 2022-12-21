@@ -12,4 +12,8 @@
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zrz-echo/count.svg)]() visitor, Thank You!🎉🎉
 
-</span><span><img src="https://github-readme-stats.vercel.app/api?username=zrz-echo&count_private=true&show_icons=true&theme=cobalt" height=145/></span>
+
+<p align = "left">
+<img  src="https://github-readme-stats.vercel.app/api?username=zrz-echo&count_private=true&show_icons=true&theme=cobalt" height=160/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=zrz-echo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" height=160 />
+

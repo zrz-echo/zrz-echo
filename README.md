@@ -1,6 +1,6 @@
 ## :man: Hi, I am RZ Zhang. :computer: 👋
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">About me  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 
 ### *一个菜鸡研究僧 at* <a href="https://bit.edu.cn/">***BIT(Beijing Institute of Technology)***</a> <img src="https://media4.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="30">
@@ -24,7 +24,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zrz-echo
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zrz-echo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" height=160 />
 
 
-## 好看的图标  
+<h2 align="center"> 好看的图标 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
 <table><tr><td valign="top" width="33%">
 
 
@@ -77,6 +77,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zrz-echo
 </td></tr></table>  
 
 <br/>  
+
+
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 
 <div align="center">

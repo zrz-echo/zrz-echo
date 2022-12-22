@@ -1,5 +1,8 @@
 ## :man: Hi, I am RZ Zhang. :computer: 👋
 
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+
 ### *一个菜鸡研究僧 at* <a href="https://bit.edu.cn/">***BIT(Beijing Institute of Technology)***</a> <img src="https://media4.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="30">
 
 - 😜 I’m currently working on single cell RNA data analysis.
@@ -9,6 +12,9 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
+  [![Python](https://img.shields.io/badge/-Python-3DDC84?logo=Python)]()
+  [![R](https://img.shields.io/badge/-R-7A1FA2?logo=R)]()
+  [![Jupyter](https://img.shields.io/badge/-Jupyter-A80025?logo=Jupyter)]()
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/zrz-echo/count.svg)]() visitor, Thank You!🎉🎉
 
